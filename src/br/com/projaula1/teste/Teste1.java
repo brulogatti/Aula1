@@ -10,6 +10,8 @@ public class Teste1 {
 		p.setId(1);
 		p.setNome("Felipe");
 		
+		System.out.println(p.imprimir());
+		
 		
 
 	}
